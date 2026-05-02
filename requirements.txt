@@ -1,0 +1,13 @@
+pandas
+numpy
+ipykernel
+streamlit
+huggingface_hub
+pypdf2
+langchain
+python-dotenv
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+langchain-huggingface
+langchain-community
